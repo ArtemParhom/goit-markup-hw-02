@@ -1,0 +1,68 @@
+body {
+    font-family: 'Roboto';
+    color: #212121;
+}
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.logo { 
+    color: #2196F3;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 119%;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    list-style: none;
+}
+.logo span {
+    color: #000;
+}
+.nav-links {  
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 114%;
+    letter-spacing: 0.02em;
+    list-style: none;       
+}
+.nav-link {
+    text-decoration: none;
+    list-style: none;
+    color: #212121;
+}
+.nav-contacts {   
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 114%;
+    letter-spacing: 0.02em;
+    color: #757575;
+    text-decoration: none;
+    list-style: none;
+}
+.nav-link:hover, .nav-link:focus, .nav-contacts:hover, .nav-contacts:focus{
+    color: #2196F3;
+}
+.section {
+    width: 100%;
+    height: 600px;
+    background: #2F303A; 
+}
+.title {
+    width: 696px;
+    height: 120px;
+    margin: 0 auto;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 136%;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+   
+}
