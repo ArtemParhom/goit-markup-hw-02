@@ -42,7 +42,10 @@ body {
     letter-spacing: 0.02em; 
     text-decoration: none;
     list-style: none;
-    color: var(--brand-color);
+    color: var(--brand-color);   
+}
+.nav-actual {
+    list-style: circle;
 }
 .nav-contacts {   
     font-weight: 500;
